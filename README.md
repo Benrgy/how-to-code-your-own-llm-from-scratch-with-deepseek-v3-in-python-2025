@@ -1,6 +1,6 @@
-# DeepSeek Landing Page Maintenance Guide
+# how-to-code-your-own-llm-from-scratch-with-deepseek-v3-in-python-2025 Maintenance Guide
 
-This guide provides detailed instructions for maintaining and customizing the DeepSeek landing page. Whether you're new to HTML and CSS or need a quick reference, follow these steps to make common updates.
+This guide provides detailed instructions for maintaining and customizing the how-to-code-your-own-llm-from-scratch-with-deepseek-v3-in-python-2025 landing page. Whether you're new to HTML and CSS or need a quick reference, follow these steps to make common updates.
 
 ## Table of Contents
 - [Updating Text and Tailwind CSS Classes](#updating-text-and-tailwind-css-classes)
